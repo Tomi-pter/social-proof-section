@@ -122,6 +122,9 @@ img {
         text-align: left;
         padding: 0 6rem 0 0;
     }
+    .info h1 {
+        font-size: 2.2rem;
+    }
     .rating {
         grid-area: rating;
         display: grid;
